@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/library_mgmt.dir/main.cpp.o  -o library_mgmt 
